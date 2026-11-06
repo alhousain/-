@@ -1,0 +1,6 @@
+{
+  "name": "جدولي الذكي | مساعد المعلم لإدارة المواعيد",
+  "description": "نظام ذكي وشامل لتنظيم مواعيد الدروس والطلاب، اكتشاف وتفادي التعارض الزمني تلقائياً، والبحث الفوري عن الفترات الشاغرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
